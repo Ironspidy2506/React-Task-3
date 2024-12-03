@@ -1,4 +1,4 @@
-**README: Understanding Virtual DOM, Fiber, and Reconciliation in React**
+# Understanding Virtual DOM, Fiber, and Reconciliation in React
 
 **1. Virtual DOM**
 - The Virtual DOM is a lightweight representation of the actual DOM. It allows React to optimize updates by minimizing direct manipulation of the DOM, which can be slow and inefficient.
